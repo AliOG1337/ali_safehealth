@@ -58,4 +58,4 @@ Config.Debug = true -- Auf false setzen um Debug-Nachrichten zu deaktivieren
 This script is released under the MIT License.
 
 ## Author
-Created by AliOG
+Created by AliOG // Discord: AliOG1337
